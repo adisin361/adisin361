@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h2>I'm Aditya</h2>
-<h4>I am a sophomore year CSE student. I love coffee ☕ and I code in C, C++ and javascript.<br>I love to code and I am keen to do research on upcoming new technologies.</h4>
+<h4>I am a sophomore year Computer Science student. I love coffee ☕ and I code in C, C++ and JavaScript.<br>I love to code and I am keen to do research on upcoming new technologies.</h4>
 
 <img align="right" alt="GIF" src="https://github.com/adisin361/techGig_codes/blob/master/gif_op.gif" width="350" height="240" />
 
