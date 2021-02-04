@@ -53,9 +53,9 @@
 
 <p align="center">
 <code>
-<!--<a href="https://twitter.com/Subhayan_10" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Subhayan_10" height="30" width="40" /></a>-->
+<a href="https://twitter.com/adityasinha361" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="adityasinha361" height="30" width="40" /></a>
 <!--<a href="https://www.linkedin.com/in/subhayan-das-a880a21b6/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="subhayan-das" height="30" width="40"/></a>-->
-<!--<a href="https://www.instagram.com/subhayan_08/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="subhayan_08" height="30" width="40" /></a>-->
+<a href="https://www.instagram.com/adisin361/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="adisin361" height="30" width="40" /></a>
 </code>
 </p>
 
