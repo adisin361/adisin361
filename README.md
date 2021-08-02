@@ -47,6 +47,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adisin361&theme=buefy&layout=compact" />
 </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adisin361&layout=compact&theme=tokyonight&show_private=true)](https://github.com/adisin361/github-readme-stats)
+
+<br>
+
 <br/>
 
 <!--<h3> 🤝🏻 &nbsp;Connect with Me </h3>-->
