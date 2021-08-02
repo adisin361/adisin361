@@ -46,7 +46,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adisin361&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adisin361&theme=buefy&layout=compact" />
 </a> -->
-<img src="https://github-readme-stats.vercel.app/api?username=warunicorn19&show_icons=true&theme=radical&show_private=true" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api?username=adisin361&show_icons=true&theme=radical&show_private=true" align="left"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adisin361&layout=compact&theme=tokyonight&show_private=true)](https://github.com/adisin361/github-readme-stats)
 
 <br>
