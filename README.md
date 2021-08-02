@@ -54,6 +54,17 @@
 
 <br/>
 
+<h1 align="center"> 🔥 Contributions: </h1>
+<p align="center">
+ <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=adisin361&theme=react&background=0d1117&border=666">
+  </a>
+  <br>
+  <a href="https://github.com/adisin361/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=adisin361&theme=react-dark&hide_border=true">
+  </a>
+</p>
+
 <!--<h3> 🤝🏻 &nbsp;Connect with Me </h3>-->
 
 <p align="center">
